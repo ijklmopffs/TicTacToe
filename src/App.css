@@ -1,0 +1,26 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  font-family: "Outfit", sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #1a2a33;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.box {
+  box-shadow: rgb(16, 33, 42) 0px -8px 0px 0px inset;
+}
+
+.cpu {
+  box-shadow: #ffc860 0px -6px 0px 0px inset;
+}
+
+.player {
+  box-shadow: #65e9e4 0px -6px 0px 0px inset;
+}
